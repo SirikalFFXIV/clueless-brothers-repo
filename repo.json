@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Sirikal",
+    "Name": "Clueless Brothers",
+    "InternalName": "CluelessBrothers",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Static coordination plugin for group sessions.",
+    "Punchline": "Static coordination tools.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/SirikalFFXIV/clueless-brothers-repo",
+    "DownloadLinkInstall": "https://github.com/SirikalFFXIV/clueless-brothers-repo/releases/download/v1.0.0/CluelessBrothers-1.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/SirikalFFXIV/clueless-brothers-repo/releases/download/v1.0.0/CluelessBrothers-1.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/SirikalFFXIV/clueless-brothers-repo/releases/download/v1.0.0/CluelessBrothers-1.0.0.zip",
+    "IconUrl": "https://raw.githubusercontent.com/SirikalFFXIV/clueless-brothers-repo/main/images/icon.png",
+    "Tags": [
+      "static",
+      "party",
+      "utility"
+    ],
+    "Changelog": "Initial release."
+  }
+]
